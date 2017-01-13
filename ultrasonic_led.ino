@@ -1,3 +1,5 @@
+//Made By CodingFobotics
+
 int vcc = 2; //attach pin 2 to vcc
 int trig = 3; // attach pin 3 to Trig
 int echo = 4; //attach pin 4 to Echo
